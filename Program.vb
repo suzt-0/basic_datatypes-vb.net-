@@ -2,8 +2,7 @@ Imports System
 
 Module Program
     Sub Main()
-        'this is a comment of no us
-
+        
         Dim intData As Integer       'declaration of intData as Integer 
         Dim CharData As Char         'declaration of charData as Char  
         Dim strData As String        'declaration of strData as String 
